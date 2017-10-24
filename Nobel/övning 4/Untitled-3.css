@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body{  
+background-image: url(https://wallpaperscraft.com/image/book_pages_reading_mood_49140_2560x1920.jpg);
+} 
+
+h1{
+text-align:center;
+font-size:100px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#ram{
+	width:80%;
+	height:70%;
+	position:absolute;
+	margin-left:10%;
+  	margin-bottom: 20%;
+  	margin-top: 5%;
+	}
+	
+	
+header{
+	width:100%;
+	height:30%;
+	background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/SquSPGq5is7t9mko/videoblocks-ancient-slavic-old-book-from-the-middle-ages-tilt-per-page-ancient-slavic-old-liturgical-book_hdqghyloe_thumbnail-full01.png);
+	overflow:hidden;
+}
+	
+nav{
+	width:100%;
+	height:15%;
+	background-color:#963;
+	overflow:hidden;
+}
+	
+article{
+	height:100%;
+	width: 100%;
+	background-color:#960;
+	float:left;
+	font-size:24px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+	
+/*aside{
+	width:30%;
+	height:100%;
+	overflow:hidden;
+	float:right;
+	background-image: url(http://static1.businessinsider.com/image/524314c969bedd905a6cd2e1-1200-1200/francis-h.-c.-crick-nobel-prize-medal-1.jpg);
+}*/
+
+footer{
+height:10%;
+width: 100%;
+background-image: url(https://previews.123rf.com/images/vectordivider/vectordivider1612/vectordivider161200061/68411221-Damask-seamless-pattern-repeating-background-Gold-olive-floral-ornament-with-Y-letter-and-crown-in-b-Stock-Vector.jpg);
+clear:both
+}
+
+
+ul{
+	list-style:none;
+}
+
+li{
+list-style-type: none;
+	float:left;
+font-size:44px;
+margin-left:10%;
+margin-right:10%;
+margin-top: 2%;}
+
+li a{
+text-decoration:none;
+color: #000;
+}
+
+li a:hover{
+background-color: F00;
+}
+
+
